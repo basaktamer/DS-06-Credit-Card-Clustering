@@ -1,4 +1,3 @@
-# DS-06-Credit-Card-Clustering
 ---
 title: Credit Card Clustering
 emoji: 💳
